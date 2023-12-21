@@ -1,4 +1,4 @@
-![Full](https://github.com/Elio-Aliaj/Elio-Aliaj/assets/119447071/5977b363-a791-4d4f-b9f9-1bdf170f81fc)
+![Full](./Assets/programer.gif)
 
 # Hi 👋 My name is Elio Aliaj
 
